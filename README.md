@@ -9,3 +9,5 @@ Functions map input to output, where procedures do something.
 func foo(int a);
 val b: double;
 val newb = b fit int {eval: ???}
+
+### Expression is also an object
